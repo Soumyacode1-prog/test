@@ -154,7 +154,7 @@ p.intro-main {
 /* Heading image section */
 
 .main-img {
-    width: 40%;
+    width: 50%;
 }
 
 
@@ -168,7 +168,7 @@ animation-direction: alternate;
 */
 
 .main-img img {
-    width: 100%;
+    width: 60%;
     animation-name: moving-up-down;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -250,7 +250,7 @@ animation-direction: alternate;
 }
 
 .about-image img {
-    width: 100%;
+    width: 60%;
 }
 
 
